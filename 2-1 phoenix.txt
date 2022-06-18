@@ -1,0 +1,432 @@
+...*huff*...*huff*... Grr!! How did I get into this mess...?
+Wha...!? What have I done wrong!?
+...? B-But I'm just a simple defense attorney!
+What a nightmare... And I bet it was this ringtone that caused it... I really shouldn't be dozing off right before a trial starts anyway...
+Huh... looks like they hung up.
+... Ouch... My head... It's throbbing... And why does it feel... so foggy in there...?
+Ack! Uh... G-Good morning...
+... Sorry, but can you please turn the cheeriness down? My head... sort of hurts...
+...
+... Um... Am I in trouble or something?
+W-Wait, never mind. You're a policewoman, right? I thought maybe I had done something wrong...?
+... What?
+Life... in... my hands...?
+"N... Not... guilty"?
+(What is this girl babbling about...?)
+Oh... sorry. (Hmm... I'm afraid to ask, but here goes...) So, this might sound bad, but... uh... Who are you...?
+No -- I mean, I didn't mean it like that!
+No, it's just... ...Well, I think you have the wrong person. I'm...
+... ... I'm... Who am I? (Why am I drawing a blank...?)
+(Hmm... I guess I must have amnesia... Let's see... What can I piece together...? Hmm, from our conversation, I can safely say that I'm probably a defense attorney. And that girl... I said I'd prove her "not guilty"... I can't believe I made such an irresponsible promise.) Aaaaaargh! Someone, please!! Tell me this is just a bad dream!
+...
+Um, er... Are you talking to me...?
+(I guess not. Urk.)
+(I guess I should say, "Yes" for now.)
+Yes, Your Honor. (... Wait a sec... If her life is in my hands... I should really do the responsible thing...)
+Um... What if I said, "No"? Would that be alright?
+(Then why bother asking to begin with??)
+Actually, you see, Your Honor... My memory is kind of...
+(Actually, I did...)
+A policeman? You did WHAT to a policeman!?
+Okaaay... (And who are you again!?)
+(Nowhere to hide... I'm sooo dead...)
+You work under that detective?
+(OK, calm down, I believe you.)
+(Why do I not remember getting a copy...?)
+Yes... I guess?
+Um, was there?
+Well, actually... Um, it's just nerves. Give me a second.
+...Court Record?
+The Court Record Button...? You really know what you're talking about, huh?
+Yes, Your Honor!
+S-Sorry, Your Honor... (Well, I guess I'd better check the Court Record, and see what I can find... What was it again? The Court Record Button...?)
+Um... I'm pretty sure it was a wallet...
+("Your client"? You do realize that's you, right?)
+If he's a cop, then I guess maybe a badge or something...
+He is a policeman, correct?
+Yes, Your Honor. (Guess there's no fooling those two.)
+(Uh, it's the Court Record Button, right?)
+That's simple, Your Honor. A broken pair of glasses.
+...
+Those glasses you're wearing...
+You sure about that?
+(A "coincidence" she says... Urk...)
+As if the glasses alone didn't make you look suspicious, the victim even wrote your name clear as day on the ground!
+And how do you explain his dying message?
+Cross-examine?
+Sure... But what am I supposed to do?
+Get in their faces and do what?
+Lie? But... isn't that detective your superior?
+Hmm, like that detective. He does sort of look like a scatterbrain...
+Y-Yes, Your Honor. (Talk about trial by fire. Here goes nothing. As long as I can "expose the lies", we should be alright.)
+Hmm, about those glasses... Do you have any proof that those belong to my client?
+Hmm... (What should I do now?)
+"Almost" and "kinda" are not good enough in a case like this!
+Do you have more definitive proof? Is there something that clearly links the defendant with those glasses!?
+So what you are saying, detective, is that you have nothing that proves those glasses are my client's.
+(We're in real trouble if those glasses really are hers... It's probably better to back out while we can.)
+Now, you're sure he was pushed and that's how he fell?
+Hmm...
+The culprit's name?
+Was the name that of my client?
+Leads to:
+Are you absolutely certain!?
+(Hmm... He's got a point...)
+Huh?
+(Now that she mentions it, something does feel kind of off about this picture...)
+(So THAT'S what spotting a contradiction feels like... I'd better check the Court Record again...)
+Leads to:
+And you are certain that it was the victim who wrote the name on the ground?
+(That didn't go well. If it really was him, then we're in a lot of trouble...)
+Leads to:
+I'm glad you're all pumped up, but...
+My what??
+Present... evidence?
+Actually, I was just thinking about that!
+Huh?
+(People's profiles, huh? Alright, let's give this another try.)
+Um, about this "presenting evidence"...
+C-Contradictions?
+Uh huh. And?
+And then I present that evidence, right!?
+Hmm... Sounds complicated, but I'll give it a try. You're pretty good at this.
+... ... ...
+... (What... What's come over me...? Without thinking, I just blurted out, "Objection!"... And I yelled it at the top of my lungs, finger outstretched, ready to take on my opponent! What a rush!)
+Detective Gumshoe!
+Please state the defendant's name for me!
+You'll see. This is a very crucial line of questioning! Actually, Mr. Payne, you can answer. The defendant's name, if you please.
+I think someone needs to check the Court Record.
+It looks like the bird caught the cat napping!
+As you can see, the victim did indeed leave a name, "Maggie". However, the defendant's name is actually spelled, "Maggey"! This is a blatant contradiction of facts!
+May I remind you that it was you who said, "The defendant is accused of killing her lover." If they were truly lovers, it would be impossible for him to have not known her name!
+How do you know about this?
+(They got close, I take it...)
+Marriage? But wasn't the victim 8 years older than her?
+No, that's not what I meant at all...
+(Ugh... I think this fella has a ways to go before marriage...)
+The day of the incident... You mean September 6th?
+(That's great, Your Honor... I'm glad you're such a cheerful old man...)
+... You seem to know a lot about the defendant.
+But even what she was going to give as a present? Isn't that going a bit too far...?
+I REALLY don't need to know that much...
+(I think the good Detective is about done here...)
+"Over 2 months ago?"
+So... What was this birthday present?
+(A baseball glove. Hmm...)
+(Well, it's just a birthday present...)
+Just now, I believe you said that the present was something she had "gotten over 2 months ago".
+Are you saying she went out and bought the glove over 2 months ago?
+Then, what is it like?
+Custom-made? The glove was custom-made?
+Hmm, I suppose it isn't really relevant.
+Uh, I was curious and got, uh, carried away, Your Honor...?
+You discussed what the defendant was going to give to her boyfriend?
+(Boy does he look proud of himself right now...)
+...
+That testimony didn't sound like it had any contradictions in it to me. There just wasn't anything that really stuck out as odd.
+Get more information?
+So I should try "pressing" him, huh?
+(I don't know where this will lead me, but...) Of course it is relevant! That glove is the key to this whole case!
+(Hmm, pressing people... It feels like I've done this before. As if I used to do this to squeeze information from even the most tight-lipped people.)
+And?
+And that's why you had to special order it?
+Thank you, Your Honor.
+But can you really determine handwriting based on a sample written in sand?
+So in the end, you couldn't confirm it?
+Nor I.
+His pointer finger?
+Aha, ha, ha. Don't tell me it bothers you...
+And what does that prove?
+(I guess he's right...)
+"Scratches on his skin?"
+You mean a microscope?
+(I can't believe this guy doesn't know what a microscope is...)
+Are you absolutely sure?
+(Hmm, I wonder if my evidence is solid enough to counter with?)
+Leads to:
+(Listening to this, you would think there was only one conclusion... that the name was definitely written by the victim...)
+(The present...? What about it...?)
+Detective Gumshoe. Take a look at this.
+Could you tell the court what is special about this glove?
+Yes, it's REALLY yellow, but that is only one of its qualities.
+There's another reason why it's special.
+It's very simple.
+This glove is made for a left-handed person!
+That is why it had to be custom-made. I have never seen a bright yellow left-hander's glove for sale. Have you?
+So, Detective. Which hand did the victim use to write the name with, again...?
+Don't forget that the victim was left-handed!
+There is only one conclusion that can be drawn! A left-handed person could not have written a message with his right hand! Therefore! The person who wrote the name "Maggie" could not have been the victim!
+Me, Your Honor? Ah, well, thank you, sir...
+(Are you joking!? I'm more than ready to retire!)
+What do you mean!?
+Whaaaaaaaaaat!?
+What the heck!?
+(I had a feeling that was a bit too easy... Hmm, I need more information. I'll have to see what I can find out during this recess. I can't let my guard down! It's only going to get tougher from here!)
+... I... Uh...
+I'm sorry I didn't mention it to you.
+Ah, no, no, no. I think I'll pass on this one.
+(Well, my head's one problem you won't be tackling today...) Well, we're here to solve your problem first. We can deal with mine later. For now, do you think you can fill me in on a few things?
+No, no, that's ok. Really. I think I know you and your name pretty well by now. I was wondering if you could help me figure out a few things about myself. So, my name is "Phoenix Wright"? What a weird name.
+...? This is... a business card?
+OK. (There are some numbers written on the back...)
+I guess for now, we should stop talking about me, and start talking about this case.
+Yup. Can you think of anything that would be helpful for me to know?
+...Cell phone?
+...!
+Hurry up then and tell me! This might be very important!
+Hmmmm... So where is the phone you found now?
+Huh? To me? (Is it that phone in my pocket...?) Y-You mean this?
+I... don't really know... But if my eyes "lit up"...
+(Ack! Now who in the heck is this? Let me guess. I'm supposed to know this girl too...)
+Huh? Oh, ah, thanks... (What the heck is this? A list? It has about 20 people's names and phone numbers written on it.)
+"No good"? As in?
+Why would a group of con artists pop up in a case like this?
+Hmm... And where did you get this list from in the first place?
+Oh... is that right?
+Hmm, so that's where they're from.
+(I guess I have all the pieces now... More or less. All that's left is to put it all together. I'm not going to lose this. I can't!)
+Y-Yeah.
+Ugh... I have to question HIM?
+(Glasses...? But you aren't wearing glasses...)
+(Oh man...)
+Yeah.
+(It's strange... My mind is very calm and clear.) Maybe it's because I... believe in my client.
+Yes. And if she really is innocent, then that can only mean one thing: That guy is lying!
+(I'll find out the truth, no matter how well you craft your lies!)
+So you were at the park all afternoon? You seem to have a lot of free time.
+N-No name? Trashy...?
+But I thought you said you were thinking about which college to go to just now...
+(That arrogant little snot...)
+How did you know what time it was? I see you're not wearing a watch, so...
+(Grr... His arrogance is really intolerable... So, what should I do now...?)
+Answer the question! How did you know what time it was!?
+(Oh... So it is... Urk.)
+(And yet again, another flood of meaningless words... Talk about a first-class waste of time...)
+(Well, I guess there's no point in pressing him further. After all, there was a clock right there at the crime scene...)
+And how did you know he was a police officer?
+(Shouldn't that statement have come first!?)
+(Even I haven't figured that out yet...)
+Are you sure you got a good look at her face?
+I don't care if I have them or not! Did you or did you not get a clear look at her face!?
+(Then please don't make me have to raise my voice.)
+So you're SURE you are not mistaken?
+(Oh ho ho ho. Of course.)
+The banana...?
+Now what would a bunch of bananas be doing there...?
+(Hmm... He could be, but... there's no reason for him to lie about there being bananas at the crime scene.) And what if it's not a lie?
+(If he mistook something else for a bunch of bananas, then that would be an inaccuracy. Think Phoenix, think!)
+Leads to:
+(If my client is innocent, there is no way he could've seen what he says he did.)
+Yeah, that's exactly what we need do. (She's right. She's got a sharp mind, but I just wish I could remember who she is...)
+Mr. Wellington. I believe I have the bananas you saw... right here!
+(And that's where you'd be wrong.)
+Doesn't it look delicious? Care for a bite?
+Your Honor! I think this proves one very important fact! This witness...
+Mr. Wellington loves large bananas!
+Whoops...
+Mr. Wellington has never played baseball! That would explain why he didn't even know what a glove is!
+Whoops...
+By the way, just how bad are your eyes?
+And that is why I asked you how bad your eyesight is!
+How about when you witnessed the crime? Were you wearing your glasses then?
+How about it, witness!?
+Which boils down to you were not wearing your glasses at that time! Therefore! The identity of the "woman" at the scene of the crime and that of the defendant can not be proven to be the same by this witness!
+She ran away, just like that?
+(Actually, that did take me a few seconds to get...) Anyway, if she ran away the instant she saw you, how could you tell it was my client?
+(Hmm, how can I get more information out of him?)
+Immediately? As in?
+(You think people learn about how to call the police in COLLEGE!?)
+(...?)
+Leads to:
+How do you know what time it was...?
+(I don't believe this.)
+Leads to:
+So you're saying that there were police on the scene by 7:00 PM?
+(I can't find anything out of the ordinary in his testimony...)
+Yeah, I guess I should.
+Mr. Wellington, would you please take a look at this?
+According to this, the murder occurred at 6:28 PM.
+You said that you called the police immediately after the murder took place. However, by the time you had called the police, it was already 6:45 PM. There is clearly a 15 minute gap here! Do you deny it!?
+I think this court would like to hear what you were doing during this 15 minute gap!
+Fifteen minutes is hardly what I would call "a little dazed"!
+Answer the question!
+Spit it out!
+A phone booth?
+Witness!
+You lost it...?
+(Oh man, oh man... Wait! Hold on a second. He lost... his cell phone?)
+You mean this phone Maggey found? There's no way...!
+(Boy, I didn't see this coming. What should I do now...?)
+(It's probably just a coincidence. I mean, what are the chances that this phone is that snob's anyway?)
+N-No, Your Honor. (I should give this some more thought...)
+Mr. Wellington! Where is your cell phone right now?
+Oh... I see...
+Hmm...
+Hmm... No, I think I'm done here, Your Honor.
+Huh? What are you talking...? ... Ah... Aaaaaaaah!
+Your Honor! The witness' testimony does not make sense! I don't believe that there was ever a need for the witness to search for a phone!
+Well, yeah... O-Of course! (This evidence should be good enough, I think...)
+Leads to:
+It's very simple! This is the evidence that backs up my claim!
+Huh? This evidence? It's meaningless?
+Well, that's... because... I was looking at the evidence and it just hit me. I thought, "Hey, he really didn't have to look for a phone."
+(Hmm, now what was that piece of evidence again...?)
+It's quite simple, actually. Please take a look at this.
+Oh, there's nothing wrong with the picture. But if you don't understand my logic after looking at it, something is wrong with you!
+That is correct! All the defendant had to do was walk three steps! Mr. Wellington! Why did you not use the phone that was right in front of you!?
+The witness can't explain what he was doing for those 15 minutes! That is reason enough to throw suspicion on his testimony!
+But Maggey said that she was going to return it to him. So there was no reason for him to kill for it. And on top of that, we still have the phone she found anyway.
+(Was he...?)
+Yes, Your Honor?
+There is only one possible explanation.
+I'm afraid it's too early to say anything for sure at this time.
+Oh crud...
+Which means...?
+WHAAAAAAAT!?
+W-Wait! As to the actions of Mr. Wellington during the 15 minute gap, the defense would like to propose an explanation!
+No, there is one possibility!
+Yes, Your Honor! (Urk. I probably shouldn't have said there was only one possibility...)
+Leads to:
+Perhaps this is the evidence you need to be convinced!
+Aha ha ha. That was just an idea I thought I'd throw out.
+Yes, of course, Your Honor! Well then...
+(Ouch.)
+Mr. Wellington!
+These are your glasses, aren't they?
+I believe the court all heard what you just confessed to: That these glasses are in fact yours! I'll tell you where they were found, Mr. Wellington. These glasses were found under the victim's body.
+Your Honor! I think the answer is quite clear here! As he fell, Dustin Prince grabbed the culprit's glasses. The culprit knew that he had to find his glasses, and searched frantically for them. What he didn't realize was that they were under the victim's body! And that is why it took him 15 minutes to make that call!
+Of course! That is precisely what I am doing!
+(I know I'm right!
+More or less. Turns out this cell phone was the key to this case after all. Anyway, now is our chance to deep-six this guy. I'll sink him in one shot!
+(Somehow, my old self is coming back to me. It's time to sink or swim; everything rests on the edge of a knife! This is the moment I've been waiting for...)
+In that case, why don't we look at it from a different perspective. Let's hear your explanation as to why you are NOT the murderer!
+Oh, you mean the name "Maggie"?
+But we already know this was not written by the victim himself. After all, the defendant's name is "Maggey" and the victim was left-handed.
+(Ah, I forgot! Hmm, was there any way this creep could've known Maggey's name beforehand?)
+(No matter how I look at it, it's no good! There is no way he could have known Maggey or her name!)
+Y-You're right... (OK, let's go over this from the beginning one more time.)
+(It would be best if I could prove that the witness had a chance to learn... that the defendant's name was "Maggey".)
+Leads to:
+This is how!
+Huh?... Oh... Ah ha ha ha.
+(As if I need a lecture about responsibility from you, of all people...)
+Yes, Your Honor...
+Mr. Wellington.
+You didn't have your cell phone with you on the day of the murder, correct?
+When you realized you had lost it, what did you do?
+Didn't you try to find it by calling it?
+I do, Your Honor. On the day of the murder, Maggey Byrde picked up a lost phone in the park. And! She also received a phone call from the owner of the phone!
+That was when you learned that her name was "Maggey"!
+But you made one fatal mistake.
+My client's name is "Maggey" but the name that was written on the ground was "Maggie". This is a mistake that could only occur if all you knew was how her name sounded!
+Your Honor?
+... It's very simple, Your Honor.
+If I said I can't offer an explanation, then the trial's over, right?
+Mr. Wellington's motive is right here!
+In the memory of the phone the defendant found was a list of certain phone numbers!
+Mr. Wellington's motive is right here!
+These phone numbers were pulled from the memory of the phone the defendant found. And we have determined that the people on this list are members of a "certain group".
+The murderer killed the victim because of this!
+... What was I thinking...?
+Of course. This list of phone numbers was stored in the cell phone's memory. The names and numbers belong to people who are members of a certain con artists' group.
+Can you explain why these numbers were on your phone, Mr. Wellington!?
+I don't care, Mr. Wellington! All I want is for you to tell us what this list is about!
+Isn't that obvious!? The witness is...
+He's investigating that group!
+(Yeah, I should have seen that coming...)
+He was victimized by this group of con artists!
+And to take his revenge, he's looking for the names and numbers of the con artists...
+... (I guess so...)
+Um, I'm sorry, Your Honor. I'd like to try one more time.
+Mr. Wellington is a member of this very group!
+All of your "friends'" phone numbers are stored right here on this phone. If anyone were to look into these phone numbers, it would be all over for you. That is why you had to kill.
+(I got you now!)
+(Hmm... If you think about it logically, then it makes sense...)
+(Yeah! If we think like that... Let's see... Maybe that slimeball saw something at the crime scene that made him commit murder.)
+Hmm, well... I don't think Mr. Wellington went to pick up his phone in a very friendly manner.
+I think he must have seen something that didn't agree with him when he got there.
+Leads to:
+The witness saw this!
+(It looks like I was wrong...)
+(So, he went to get his cell phone back, but when he got there, he lost control of himself. It was probably because he saw something that was really bad for him there... And that "really bad thing" was...!)
+What Mr. Wellington saw was... the victim.
+Dustin Prince had gone on his date right after his shift was over. With no time to change, he went to the park still wearing his police uniform!
+He couldn't have known they were going out so he began to worry. He was afraid the policeman would ask a few questions before returning the phone.
+In his mind, it was possible they had already run a check on the phone!
+Exactly. Officer Prince was murdered simply because he was in uniform!
+What's that supposed to mean!?
+You want proof that this phone is yours?
+WHAT!?
+Your Honor! (This is bad... I can't let him turn the tables on me like this!! Hmm... This cell phone... There has to be something I've overlooked. There's got to be! Hmm... Maybe...)
+This phone has the names and numbers of those in the con group in its memory. I can show them to you, Your Honor!
+Uh...
+(Grr... That jerk is back to his arrogant, annoying self again...)
+I got it! We should check for fingerprints!
+Yes, Your Honor. Mr. Wellington must have left some prints on this phone!
+I what!?
+W-Wiped it? I wiped it...?
+(Aaargh! He's made a complete recovery...)
+(You've got to be joking! He erased all the numbers I was going to use as evidence!) ... Mr. Wellington...
+Where did you finally find your cell phone!?
+...? ... I... I... Oh my g-- NOW I REMEMBER!!
+Huh, looks like they hung up.
+(So that's when...)
+I know. (I know this phone has to be his... But how am I supposed to prove something like that!?)
+(Where...? Where did I go wrong...?)
+(Who... I am?)
+(What am I supposed to do!? Am I supposed to just let it go at that?)
+(It's no use. I can't do any more. There's nothing left. Nothing left but to go back to my hometown... But where in the world is that, anyway?)
+("If I were me"...?) Alright. If I were me, then what would I do?
+(So for now, I should at least say something!)
+Leads to:
+Leads to:
+Please wait, Your Honor!
+I think I may be able to prove it!
+Everything!
+Please, Your Honor!
+...!
+(I only get one shot at this!)
+Yes, Your Hon-
+(It all comes down to this! It's Go time!)
+Leads to:
+Judge:
+Nonono! That was just a friendly gesture!
+Yes, Your Honor... Sorry...
+Your Honor. There is something very important about that card. And that is...
+The name on that card tells people who I am! It even told ME that I'm "Phoenix Wright"!
+Nope!
+(Urk. I should probably try this from a different angle...)
+This card is important because of what is on the back!
+But that's exactly it. Can you please call this number from your cell phone?
+It's OK. You'll see.
+We are going to call my cell phone now. And then the court will see everything for what it is!
+Mr. Wellington.
+Hmm... How strange... I could almost swear that you're holding MY phone!
+By the way, before I forget, thank you very much for the lump on my head this morning.
+I don't think I need to explain any further, except to say: When you went to retrieve your cell phone, you mistakenly took the wrong one!
+He is a man who lives on his pride and self-image alone. And in order to hide his involvement with the con artists' group, he has become paranoid, and has lost all ability to make rational judgments.
+Huh?
+That is, uh... pretty bad...
+Ah, that's right. You were talking about this earlier.
+Uh, well, I don't think my head is that messed up yet...
+Yeah. After all, the "Goddess of Misfortune" is only a name!
+Y-Yeah! That's the spirit!
+*sigh* What a horrible day... I've gotten my memory back, but things are still a little fuzzy...
+(Hmm... I'm afraid to ask, but here goes...) So, this might sound bad, but... uh... Who are you...?
+(At that moment, everything really did come back to me...)
+(And this girl...) ...Maya...?
+(This is Maya Fey, my assistant. That's right... I have so many unforgettable memories about her. For example...)
+Uh, well, yeah I suppose I have. I feel like I haven't seen you in ages.
+Alright. Sounds good. (All the phone numbers on my phone were erased by Mr. Wellington. I guess I have to start over from the very beginning...)
+OK, OK. (Actually, it hasn't even been two months since she came back into my life.)
+Your Honor! What do you think about the witness's statement?
+It clearly, er, contradicts the... um... I thought...
+(I don't think that won me any points with the judge...)
+Your Honor! That statement contradicts this evidence!
+Huh? Really?
+(Whoops! That didn't go so well.)
+This evidence clearly reveals the contradiction in that statement, Your Honor!
+They aren't, are they...
+(I don't think that won me any points with the judge...)
+The witness's statement is clearly faulty, Your Honor!
+(Ugh, I must be on the wrong track...?)
