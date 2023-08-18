@@ -49,4 +49,4 @@ Game numbers represent the release order of main series games. Case numbers repr
 - `5-5` Turnabout for Tomorrow
 - `5-6` Turnabout Reclaimed
 
-Noticed any typos, formatting errors, or general inaccuracies? Please submit a pull request or send me a message on Discord @igiari#0013! 
+Noticed any typos, formatting errors, or general inaccuracies? Please submit a pull request or send me a message on [Discord](https://discordapp.com/users/762611006601691187). 
